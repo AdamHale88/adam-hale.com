@@ -1,4 +1,4 @@
-import {Outlet} from "react-router-dom";
+import { Outlet } from "react-router-dom";
 import Header from "./header";
 import Footer from "./footer";
 
@@ -9,16 +9,16 @@ const Layout = () => {
                 className="uk-flex uk-flex-row uk-justify-content-center uk-margin-remove uk-align-center"
                 uk-sticky="top"
             >
-                <Header/>
+                <Header />
             </header>
             <main>
-                <Outlet/>
+                <Outlet />
             </main>
             <footer
                 className="uk-flex uk-flex-row uk-justify-content-center uk-margin-remove uk-align-center"
                 uk-sticky="bottom"
             >
-                <Footer/>
+                <Footer />
             </footer>
         </div>
     );
