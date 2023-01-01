@@ -7,7 +7,7 @@ const ProjectWrapper = () => {
                 className="uk-grid uk-grid-match uk-width-1-12@l  uk-text-center wrapper"
                 uk-grid
             >
-                <Projects/>
+                <Projects />
             </div>
         </>
     );

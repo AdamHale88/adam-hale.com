@@ -11,7 +11,7 @@ const Projects = () => {
                                 <h3>{project.title}</h3>
                             </div>
                         </a>
-                        <img src={project.image} alt={project.alt}/>
+                        <img src={project.image} alt={project.alt} />
                         <a target="_blank" href={project.repo} rel="noreferrer">
                             <div className="uk-card-badge uk-overlay-primary uk-label uk-box-shadow-hover-xlarge">
                                 REPO

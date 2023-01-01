@@ -15,7 +15,7 @@ const CentralHero = () => {
                     />
                 </div>
                 <div className="profile uk-flex uk-flex-column uk-justify-content-center uk-align-center">
-                    <ContactButtons/>
+                    <ContactButtons />
                 </div>
             </figure>
         </>
