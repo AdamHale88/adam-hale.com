@@ -4,14 +4,13 @@
 
 - [Portfolio](https://adam-hale.com "Live View")
 
-<p>Portfoilio Version : 1.1.23</p>
+<p>Portfoilio Version : 1.1.23 </p>
 
-## Table of Contents 
+## Table of Contents
 
 - [Bio](#bio)
-
+- [Features](#features)
 - [Credits](#credits)
-
 - [License](#license)
 
 ## Bio
@@ -32,20 +31,20 @@
 
 - UIKIT
 - Google Fonts
-- Font Awesome 
+- Font Awesome
 - HTML
 - CSS
 
-## Front End 
+## Front End
 
-<p> 
+<p>
  - UIkit
  - Bulma
  - Bootstrap
  - Miligram
  - React
  - Handlebars
-</p> 
+</p>
 
 ## Back End
 
@@ -59,9 +58,7 @@
 - Apollo Client
 - Apollo Server
 
-
 </p>
-
 
 ## How to Contribute
 
@@ -76,7 +73,6 @@ Contributions, issues, and feature requests are welcome!
 ## Credits
 
 **Adam Olsey**
-
 
 - [Profile](https://github.com/AdamHale88 "Adam Olsey")
 - [Email](mailto:adamhale88@tuta.io?subject=Hi "Hi!")
