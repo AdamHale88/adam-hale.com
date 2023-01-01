@@ -1,5 +1,3 @@
-import NavButtons from "./navButtons";
-
 const Resume = () => {
     return (
         <>

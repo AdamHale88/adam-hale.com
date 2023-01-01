@@ -22,4 +22,4 @@ const CentralHero = () => {
     );
 };
 
-export default ccentralHero;
+export default CentralHero;
