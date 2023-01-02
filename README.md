@@ -23,11 +23,11 @@
 
 ## License
 
-![GitHub](https://img.shields.io/github/license/AdamHale88/continuous_creations)
+![GitHub](https://img.shields.io/github/license/AdamHale88/adam-hale.com)
 
 ### Built With
 
-![GitHub language count](https://img.shields.io/github/languages/count/adamhale88/continuous_creations)
+![GitHub language count](https://img.shields.io/github/languages/count/adamhale88/adam-hale.com)
 
 - UIKIT
 - Google Fonts
@@ -62,9 +62,9 @@
 
 ## How to Contribute
 
-- [Repo](https://https://github.com/AdamHale88/continuous_creations "Continuous Creations")
+- [Repo](https://https://github.com/AdamHale88/adam-hale.com "Adam-Hale.com")
 
-[![GitHub issues](https://img.shields.io/github/issues/AdamHale88/continuous_creations?style=flat)](https://github.com/AdamHale88/continuous_creations/issues)
+[![GitHub issues](https://img.shields.io/github/issues/AdamHale88/adam-hale.com?style=flat)](https://github.com/AdamHale88/adam-hale.com/issues)
 
 ## 🤝 Support
 
