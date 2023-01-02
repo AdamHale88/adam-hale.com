@@ -29,37 +29,6 @@
 
 ![GitHub language count](https://img.shields.io/github/languages/count/adamhale88/adam-hale.com)
 
-- UIKIT
-- Google Fonts
-- Font Awesome
-- HTML
-- CSS
-
-## Front End
-
-<p>
- - UIkit
- - Bulma
- - Bootstrap
- - Miligram
- - React
- - Handlebars
-</p>
-
-## Back End
-
-<p>
-
-- Express Js
-- Sequalize
-- Mysql2
-- Mysql
-- MongoDB
-- Apollo Client
-- Apollo Server
-
-</p>
-
 ## How to Contribute
 
 - [Repo](https://https://github.com/AdamHale88/adam-hale.com "Adam-Hale.com")
