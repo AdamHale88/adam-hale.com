@@ -17,16 +17,6 @@ const BottomNavButtons = () => {
                             Resume
                         </a>
                     </Link>
-                    <Link to="/toolbox">
-                        <a
-                            className="uk-button m-2"
-                            uk-icon="icon: code; ratio:1"
-                            target="_blank"
-                            rel="noreferrer"
-                        >
-                            ToolBox
-                        </a>
-                    </Link>
 
                     <Link to="/project">
                         <a

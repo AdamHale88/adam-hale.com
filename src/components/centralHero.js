@@ -10,7 +10,7 @@ const CentralHero = () => {
                 <div className="uk-flex uk-flex-column uk-justify-content-center uk-align-center">
                     <img
                         id="profile"
-                        src="images\adamhale.jpeg"
+                        src="images\adamhale.jpg"
                         alt="full stack web developer"
                     />
                 </div>

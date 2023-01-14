@@ -6,8 +6,8 @@ body,
   margin: 0;
   min-width: 100vw;
   min-height: 100vh;
-  background-color: #222222;
-  color: #757473;
+  background-color: #f30202;
+  color: #040403;
 }
 
 .header{
@@ -16,7 +16,7 @@ body,
   justify-content: center;
   box-sizing: content-box;
   min-width: 100vw;
-  background-color:#1f1e1e;
+  background-color:#f20404;
 }
 
 button {
@@ -41,16 +41,15 @@ p {
   margin: 0;
   border-radius: 10px;
   padding: 1em;
-  color: #e4dfd8;
   border-style: ridge;
-  border-color: #0e0d0d;
-  background-color:#b8b8b8;
-  box-shadow: 0 5px 5px #414141;
+  border-color: #f8e21b;
+  background-color:#010101;
+  box-shadow: 0 5px 5px #efcd37;
 }
 
 .wrapper .iconify {
-  color: #e4dfd8;
-  background-color:#222222;
+  color: #060606;
+  background-color:#ecf714;
   padding: 10px;
   width: 70px;
   height: 70px;
@@ -59,17 +58,17 @@ p {
 .uk-tile {
   margin: 0;
   padding: 1em;
-  color: #3a3939;
+  color: #f60505;
   border-style: ridge;
-  border-color: #838383;
-  background-color:#222222;
-  box-shadow: 0 5px 5px #727271;
+  border-color: #ecf714;
+  background-color:#f4f0f0;
+  box-shadow: 0 5px 5px #efef09;
   flex-shrink: inherit;
   box-sizing: content-box;
 }
 
 .uk-tile-footer {
-  color: #9c9a97;
+  color: #e70505;
   border-radius: 10px;
   border-style: ridge;
 }
@@ -79,36 +78,31 @@ p {
   min-width: 100vw;
   flex-shrink: inherit;
   box-sizing: content-box;
+  background-color: #ecf714;
 }
 
 nav .uk-icon  { 
   border-radius: 0px 10px;
   padding: 1em;
-  color: #cfcdcb;
+  color: #f30202;
   border-style: ridge;
-  border-color: #838383;
-  background-color:#222222;
-  box-shadow: 0 5px 5px #727271;
+  border-color: #060605;
+  background-color:#ecf714;
+  box-shadow: 0 5px 5px #ecf714;
 }
 
-.uk-icon  { 
-  padding: 1em;
-  padding: 1em;
-  color: #929292;
-  background-color:#222222;
-  box-shadow: 0 5px 5px #727271;
-}
 
 .uk-overlay-primary h3 {
   font-family: 'Montserrat', sans-serif;
-  color: #252525;
+  color: #f6f2f2;
   text-align: center;
   box-sizing: content-box;
+  background-color: #e70505;
 }
 
 span .uk-badge {
   font-family: 'Ovo', serif;
-  color: #bebebd;
+  color: #f30202;
   text-align: center;
   box-sizing: content-box;
 }
@@ -116,7 +110,7 @@ span .uk-badge {
 .footer {
   margin: 0;
   min-width: 100vw;
-  background-color:#1f1e1e;
+  background-color:#f30202;
 }
 
 
