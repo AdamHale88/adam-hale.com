@@ -2,6 +2,7 @@
 html, 
 body, 
 #root {
+  text-decoration: none;
   box-sizing: content-box;
   margin: 0;
   min-width: 100vw;
@@ -20,6 +21,7 @@ body,
 }
 
 button {
+  text-decoration: none;
   border-style: none;
   background-color:transparent;
 }
@@ -53,6 +55,7 @@ p {
   padding: 10px;
   width: 70px;
   height: 70px;
+  text-decoration: none;
 }
 
 .uk-tile {
@@ -89,10 +92,12 @@ nav .uk-icon  {
   border-color: #060605;
   background-color:#ecf714;
   box-shadow: 0 5px 5px #ecf714;
+  text-decoration: none
 }
 
 
 .uk-overlay-primary h3 {
+  text-decoration: none;
   font-family: 'Montserrat', sans-serif;
   color: #f6f2f2;
   text-align: center;
@@ -101,6 +106,7 @@ nav .uk-icon  {
 }
 
 span .uk-badge {
+  text-decoration: none;
   font-family: 'Ovo', serif;
   color: #f30202;
   text-align: center;
