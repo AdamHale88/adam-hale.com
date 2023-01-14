@@ -15,7 +15,7 @@ const ContactForm = () => {
                         <textarea className="uk-icon uk-textarea " rows="5"
                             placeholder="Whats on your mind?"></textarea>
                     </div>
-                    <button className="uk-icon m-2" type="submit"> Submit</button>
+                    <button className="uk-icon m-0 p-0 uk-button" type="submit"> Submit</button>
                 </fieldset>
             </form>
         </>

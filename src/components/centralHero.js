@@ -8,7 +8,9 @@ const CentralHero = () => {
                 className="uk-section uk-section-small uk-flex uk-flex-column uk-justify-content-center uk-margin-remove uk-align-center">
                 <div className=" logosub uk-flex uk-justify-content-center uk-align-center">
                 </div>
-
+                
+                <legend className="uk-legend uk-justify-content-center uk-align-center uk-text-center">Love & Peace
+                </legend>
                 <div className="uk-flex uk-flex-column uk-justify-content-center uk-align-center">
                     <img
                         id="profile"
@@ -16,12 +18,12 @@ const CentralHero = () => {
                         alt="Vash the stampede"
                     />
                 </div>
-                    <div className="uk-flex uk-flex-column uk-justify-content-center uk-margin-6 uk-align-center"><ContactForm /></div>
+                    
                 
                 <div className="profile uk-flex uk-flex-column uk-justify-content-center uk-align-center">
                     <ContactButtons />
                     
-                </div>
+                 </div>{/*<div className="uk-flex uk-flex-column uk-justify-content-center uk-margin-6 uk-align-center"><ContactForm /></div> */}
             </figure>
         </>
     );

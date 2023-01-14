@@ -7,7 +7,7 @@ const Projects = () => {
                 <div className="uk-tile uk-box-shadow-hover-xlarge uk-padding">
                     <div className="uk-inline uk-background">
                         <a target="_blank" href={project.url} rel="noreferrer" key={index}>
-                            <div className="uk-overlay uk-overlay-primary uk-position-bottom">
+                            <div className="uk-overlay uk-overlay-secondary uk-position-bottom">
                                 <h3>{project.title}</h3>
                             </div>
                         </a>
