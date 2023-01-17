@@ -6,13 +6,12 @@ const BottomNavButtons = () => {
         <>
             <nav
                 className="uk-flex uk-flex-direction-column uk-justify-content-center uk-align-center uk-margin-remove">
-                <ul className="uk-iconnav uk-iconnav-horizontal uk-flex uk-flex-direction-row uk-align-center ">
+                <ul className="uk-iconnav uk-iconnav-horizontal uk-flex uk-flex-direction-row uk-align-center uk-margin-remove ">
                     <Link to="/resume">
                         <a
                             className="uk-button uk-icon"
-                            target="_blank"
-                            rel="noreferrer"
-                            
+
+
                         >
                             Resume
                             🍩
@@ -22,8 +21,7 @@ const BottomNavButtons = () => {
                     <Link to="/project">
                         <a
                             className="uk-button uk-icon"
-                            target="_blank"
-                            rel="noreferrer"
+
                         >
                             Projects
                             🍩
@@ -33,8 +31,7 @@ const BottomNavButtons = () => {
                     <Link to="/">
                         <a
                             className="uk-button uk-icon"
-                            target="_blank"
-                            rel="noreferrer"
+
                         >
                             Home
                             🍩

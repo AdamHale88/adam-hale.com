@@ -16,14 +16,6 @@
     "readme": "blank"
   },
   {
-    "title": "Weather IO",
-    "url": "https://weatheriodashboard.netlify.app/",
-    "image": "images/main.jpeg",
-    "alt": "weather io",
-    "repo": "https://github.com/AdamHale88/weather_io",
-    "readme": "blank"
-  },
-  {
     "title": "Quiz Js",
     "url": "https://codequizjs.netlify.app/",
     "image": "images/quizhome.jpeg",
